@@ -36,7 +36,7 @@ I build tools across the entire End-To-End software pipeline from bare-metal C c
 
 ### CI/CD and automated testing On-Premise
 
-With over five years of experience building CI systems, I pride myself in building high-performance scalable solutions on various platforms. Whether it’s reducing build times in the cloud or managing real-hardware on-site and integrating with physical testing tools, I love building CI tooling which harmoniously integrates with developer workflows. 
+With over five years of experience building CI systems, I love building systems which harmoniously integrate with developer workflows. Whether it be lightning fast cloud-builds or on-prem machines running tests on physical hardware.
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)
@@ -46,4 +46,4 @@ With over five years of experience building CI systems, I pride myself in buildi
 
 ### Mentoring and Tutoring
 
-Teaching is arguably my greatest passion and I try to offer it wherever I can. Whether it is in the workplace, sharing knowledge with coworkers or doing private tutoring on the side, I love nerding out together over problems or some cool tech and sharing my enthusiasm with everyone. And it’s not just programming either! If you want to learn to play Go, come find me on the <a href="https://discord.gg/WHGGreCX" target="_blank">beginner Go discord</a> and challenge me to a game!
+Teaching is arguably my greatest passion. Whether it is in the workplace sharing knowledge with coworkers or doing private tutoring on the side, I love nerding out together over problems or some cool tech and sharing my enthusiasm with people. And it’s not just programming either! If you want to learn to play Go, come find me on the <a href="https://discord.gg/WHGGreCX" target="_blank">beginner Go discord</a> and challenge me to a game!
