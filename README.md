@@ -36,7 +36,7 @@ I build tools across the entire End-To-End software pipeline from bare-metal C c
 
 ### CI/CD and automated testing On-Premise
 
-With over five years of experience building CI systems, I love building systems which harmoniously integrate with developer workflows. Whether it be lightning fast cloud-builds or on-prem machines running tests on physical hardware.
+I have set up and maintained CI/CD systems, whether cloud or on-premise for almost 10 years. In those years I have developed a particular hatred for Jenkins and a love for Buildkite.
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)
